@@ -1,20 +1,27 @@
-<<<<<<< HEAD
-# switch_mood
+# 🌗 Switch Moods
 
-A new Flutter project.
+A simple yet effective Flutter app that allows users to **toggle between Dark Mode and Light Mode** with 
+just a tap. It uses `Provider` for state management and `SharedPreferences` to remember 
+the user’s choice even after restarting the app.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔘 Toggle between **Dark Mode** and **Light Mode**
+- 💾 Saves your choice using `SharedPreferences`
+- 🧠 State managed with **Provider**
+- 🧩 Built using clean and easy-to-understand Flutter code
+- 📱 Responsive and works across devices
+- 🌍 Ideal as a starting project to learn theme switching in Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# switchmoods_flutterapp
->>>>>>> c3dfdb14f364ff701ff14f817f302b81c5ce97c8
+## 🛠️ Tech Stack
+
+- ✅ Flutter
+- ✅ Dart
+- ✅ Provider (state management)
+- ✅ SharedPreferences (local storage)
+
+
