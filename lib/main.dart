@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'dark_and_light_moods.dart';  // Import your custom file (if needed for screen or functionality)
+import 'dark_and_light_moods.dart';  
 
 void main() {
-  // This is the entry point of the app. We run the MyApp widget.
+
   runApp(const MyApp());
 }
 
