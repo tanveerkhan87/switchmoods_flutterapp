@@ -39,7 +39,7 @@ class HomeScreen extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             const Text(
-              'Now it works!',
+              'Change the Themes!',
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
           ],
